@@ -21,7 +21,7 @@ div {  background-color: #fffff4;}</style><link rel="stylesheet" href="../style
 </head>
 <body>
 hello_world
- <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">!!! test !!!</marquee></span></p>
+ <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">!!! test !!!</marquee></span></h1></p>
   <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~torokoid</marquee>
 <!-- ヘッダ --> 
   <header> <h1>HTMLリファレンス</h1>
