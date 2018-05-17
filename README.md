@@ -15,8 +15,10 @@ p {color: #0d0015;font-size: 1em; }
 .blue {color:#0000ff;}
 .waku {border:2px dotted #99cc66;　　　　　　line-height: 200%;　　　　　　padding: 10px;}
 -->
+    <!--
 body { background-color: #ffff00; }
 div {  background-color: #fffff4;}</style><link rel="stylesheet" href="../style.css/" type="text/css">
+-->
 </head>
 <body>
 hello_world
