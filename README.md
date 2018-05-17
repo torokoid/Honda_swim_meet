@@ -18,25 +18,33 @@ body { background-color: #ffff00; }
 div {  background-color: #fffff4;}</style><link rel="stylesheet" href="../style.css/" type="text/css">
 </head>
 <body>
-  # hello_world
+hello_world
  <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">!!! test !!!</marquee></span></p>
-  <p align="right"><marquee direction="right" scrollamount="20" width="20%">(^_^)/~torokoid</marquee></p>
+  <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~torokoid</marquee>
 <!-- ヘッダ --> 
   <header> <h1>HTMLリファレンス</h1>
     <nav>
       <ul>
-        <li>
-          <a href=".html">ReleaseNote</a>        </li> 
-        <li>        <a href="../html/">HTMLリファレンス</a>        </li>
+        <li><a href=".html">ReleaseNote</a></li> 
+        <li><a href="../html/">HTMLリファレンス</a></li>
         <li><a href=".css">CSSリファレンス</a></li> 
         <li><a href="../sitemap/">サイトマップ</a></li>
       </ul> 
     </nav>
   </header>
-<h1>振り返り</h1>   <p>&#160;</p>   
-  <p> <span class="ms-rteForeColor-2 ms-rteFontSize-3">         <a href=/Announcements.aspx</a></span></p>   <p>&#160;</p>
-<div><br/>   <h2>       <span class="blue"><strong> リンク集 </strong></span></h2>   <p>現在改良中</p>   <p>       <span class="ms-rteForeColor-2 ms-rteFontSize-3">         <a href="aspx</a></span></p><br/></div>
+<h1>振り返り</h1>
+  <p>&#160;</p>   
+  <p> <span class="ms-rteForeColor-2 ms-rteFontSize-3">         <a href=/Announcements.aspx</a></span></p>
+  <p>&#160;</p>
+<div><br/>
+  <h2>
+    <span class="blue"><strong> リンク集 </strong></span></h2>
+  <p>現在改良中</p>
+  <p><span class="ms-rteForeColor-2 ms-rteFontSize-3">
+    <a href="aspx"</a></span></p><br/></div>
 <!-- フッタ -->
-<footer> Copyright 2018 torokoid </footer>
+<footer>
+  Copyright 2018 torokoid
+  </footer>
 </body>
 </html>
