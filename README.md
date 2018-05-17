@@ -37,17 +37,15 @@ hello_world
   </header>
 <h1>振り返り</h1>
   <p>&#160;</p>   
-  <p> <span class="ms-rteForeColor-2 ms-rteFontSize-3">         <a href=/Announcements.aspx</a></span></p>
+  <p> <span class="ms-rteForeColor-2 ms-rteFontSize-3">         </span></p>
   <p>&#160;</p>
 <div><br/>
   <h2>
     <span class="blue"><strong> リンク集 </strong></span></h2>
   <p>現在改良中</p>
   <p><span class="ms-rteForeColor-2 ms-rteFontSize-3">
-    <a href="aspx"</a></span></p><br/></div>
+  </span></p><br/></div>
 <!-- フッタ -->
 <footer>
   Copyright 2018 torokoid
   </footer>
-</body>
-</html>
