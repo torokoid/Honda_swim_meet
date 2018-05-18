@@ -38,11 +38,11 @@ div {
 
 <!-- ヘッダ -->
  <header>
- <h1><span class="blue"><strong>恒例練習メニュー </strong></span></h1>
+ <h1><span class="blue"><strong>恒例練習</strong></span></h1>
  </header>
-<p><span class="blue"><strong> 健保体育館プールにて10:30スタート </strong></span></p>
+<p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
-<h3>2018/5/13の実績</h3>
+<h3>2018/5/13のメニュー実績</h3>
   
    <p>Swim25m x 40@30sec 
    <br/>Stream Line
