@@ -1,4 +1,3 @@
-<!DOCTYPE html>
  <html lang="ja">
  <head>
  <meta charset="UTF-8">
@@ -65,8 +64,3 @@ div {
  <footer>
  Copyright 2018/05/18 S.Hada
  </footer>
-
-</body>
-
-
-</html>
