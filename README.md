@@ -41,6 +41,15 @@ div {
  </header>
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
+<h3>2018/5/20のメニュー実績</h3>
+
+   <p>Swim25m x 40@30sec 
+   <br/>one hand pull R,L,comb,mix
+   <br/>one hand straight arm pull
+   <br/>straight arm pull
+   <br/>start sash	　
+   <p>&#160;</p>
+
 <h3>2018/5/13のメニュー実績</h3>
   
    <p>Swim25m x 40@30sec 
@@ -53,12 +62,10 @@ div {
    <p>&#160;</p>
 
 
-<div>
    <h2> 
       <span class="blue"><strong> tips! </strong></span></h2>
             <p>pullは二軸を意識して
    <br/>kickは蹴り上げで膝を少し曲げて水面から足を出すのがポイント</p>
-</div>
 
 <!-- フッタ -->
  <footer>
