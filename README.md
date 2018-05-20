@@ -21,9 +21,7 @@ font-size: 1.5em;
 
 body { background-color: #ccffcc; }
 
-div {
-  background-color: #ffff00;
-}
+
 </style>
 <link rel="stylesheet" href="../style.css/" type="text/css">
 
