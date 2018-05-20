@@ -33,7 +33,7 @@ div {
 <body>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! ホンダ水泳同好会 !!!</marquee></span></h1>
-<p align="right"><marquee direction="right" scrollamount="20" width="20%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!-- ヘッダ -->
  <header>
