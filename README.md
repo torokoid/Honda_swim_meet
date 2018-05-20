@@ -45,7 +45,7 @@ body { background-color: #ccffcc; }
    <br/>one hand pull R,L,comb,mix
    <br/>one hand straight arm pull
    <br/>straight arm pull
-   <br/>start sash	　
+   <br/>start dash	　
    <p>&#160;</p>
 
 <h3>2018/5/13のメニュー実績</h3>
