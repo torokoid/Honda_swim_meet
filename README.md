@@ -59,8 +59,8 @@ body { background-color: #0d0015; }
    <br/>Stream Line + kick + pull & dush!
    <p>	      <h2>→　<span class="red">kickのペースにpullをシンクロ</span></h2></p>
    <p>&#160;</p>
-
-
+<a href="http://www.tdsystem.co.jp/ProList.php?Y=2018&M=0&GL=1&G=30">4月15日、仙台結果</a>
+   <p>&#160;</p>
 <div>
    <h2> 
       <span class="blue"><strong> tips! </strong></span></h2>
