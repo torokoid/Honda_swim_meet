@@ -74,6 +74,9 @@ body { background-color: #0d0015; }
             <p>pullは二軸を意識して
    <br/>kickは蹴り上げで膝を少し曲げて水面から足を出すのがポイント</p>
 </div>
+   <p>&#160;</p>
+   <h2> 
+      <span class="blue"><strong> 大会公式記録へのリンク </strong></span></h2>
 <p><a href="http://www.tdsystem.co.jp/ProList.php?Y=2018&M=0&GL=1&G=30">2018年4月15日、マスターズ短水路、仙台結果</a></p>
 <p>・・・25Free、25Batに浜田さん出場</p>
 
@@ -85,7 +88,7 @@ body { background-color: #0d0015; }
  <a href="https://youtu.be/leZxMlWZFMk" target="_blank">2017/10/29 第14回 栃木県マスターズ水泳 フリーリレー 5組</a><br/>
  <a href="https://youtu.be/VNcfrJg00mQ" target="_blank">2017/10/29 第14回 栃木県マスターズ水泳 25free 7組</a><br/>
  <a href="https://youtu.be/i3Wonq-su-c" target="_blank">2017/10/29 第14回 栃木県マスターズ水泳 25free 6組</a><br/>
- <a href="https://youtu.be/cimOX_hp9Vk" target="_blank">2014/11/9 栃木県マスターズ水泳大会 個人メドレー</a>
+ <a href="https://youtu.be/cimOX_hp9Vk" target="_blank">2014/11/09 栃木県マスターズ水泳大会 個人メドレー</a>
        </section>
 
 <p>&#160;</p>
