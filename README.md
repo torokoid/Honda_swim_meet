@@ -40,9 +40,18 @@ body { background-color: #0d0015; }
  </header>
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
-<p>2018/5/20のメニュー実績</p>
+<p>2018/6/3の実績</p>
 
-   <p>Swim25m x 40@30sec 
+   <p>Swim50m x 20 @60sec 
+   <br/>kick50m x4 @75sec, 2set
+   <br/>one hand pull right25m and left25m x4 @75sec
+   <br/>one hand pull R,L,comb25m x4 @75sec
+   <br/>start dash	　
+   <p>&#160;</p>
+
+<p>2018/5/20の実績</p>
+
+   <p>Swim25m x 40 @30sec 
    <br/>one hand pull R,L,comb,mix
    <br/>one hand straight arm pull
    <br/>straight arm pull
@@ -51,7 +60,7 @@ body { background-color: #0d0015; }
 
 <p>2018/5/13の実績</p>
   
-   <p>Swim25m x 40@30sec 
+   <p>Swim25m x 40 @30sec 
    <br/>Stream Line
    <br/>Stream Line + kick
    <br/>Stream Line + kick + one hand pull
