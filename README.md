@@ -78,7 +78,10 @@ body { background-color: #0d0015; }
    <br/>kickは蹴り上げで膝を少し曲げて水面から足を出すのがポイント</p>
 </div>
 
-https://youtu.be/cimOX_hp9Vk
+<p>&#160;</p>
+      <section>
+ <a href="https://youtu.be/cimOX_hp9Vk">2014/November/9 栃木県マスターズ水泳大会 個人メドレー</a>
+       </section>
 
 <p>&#160;</p>
 <p>宇都宮の天気予報</p>
