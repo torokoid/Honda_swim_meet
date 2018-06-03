@@ -85,7 +85,7 @@ body { background-color: #0d0015; }
  <a href="https://youtu.be/leZxMlWZFMk" target="_blank">2017/10/29 第14回 栃木県マスターズ水泳 フリーリレー 5組</a><br/>
  <a href="https://youtu.be/VNcfrJg00mQ" target="_blank">2017/10/29 第14回 栃木県マスターズ水泳 25free 7組</a><br/>
  <a href="https://youtu.be/i3Wonq-su-c" target="_blank">2017/10/29 第14回 栃木県マスターズ水泳 25free 6組</a><br/>
- <a href="https://youtu.be/cimOX_hp9Vk" target="_blank">2014/November/9 栃木県マスターズ水泳大会 個人メドレー</a>
+ <a href="https://youtu.be/cimOX_hp9Vk" target="_blank">2014/11/9 栃木県マスターズ水泳大会 個人メドレー</a>
        </section>
 
 <p>&#160;</p>
