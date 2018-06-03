@@ -101,6 +101,6 @@ body { background-color: #0d0015; }
 <p>&#160;</p>
 <!-- フッタ -->
  <footer>
- Copyright 2018 S.Hada
+ Copyright 2018/05/12 S.Hada
  </footer>
 
