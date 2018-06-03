@@ -76,6 +76,13 @@ body { background-color: #0d0015; }
 </div>
    <p>&#160;</p>
    <h2> 
+      <span class="blue"><strong> ジャパンマスターズへのリンク </strong></span></h2>
+<p><a href="http://www.masters-swim.or.jp/"></a></p>
+
+<p>&#160;</p>
+http://www.masters-swim.or.jp/
+   <p>&#160;</p>
+   <h2> 
       <span class="blue"><strong> 大会公式記録へのリンク </strong></span></h2>
 <p><a href="http://www.tdsystem.co.jp/ProList.php?Y=2018&M=0&GL=1&G=30">2018年4月15日、マスターズ短水路、仙台結果</a></p>
 <p>・・・25Free、25Batに浜田さん出場</p>
