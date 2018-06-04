@@ -92,7 +92,7 @@ body { background-color: #0d0015; }
  <a href="https://youtu.be/cimOX_hp9Vk" target="_blank">2014/11/09 栃木県マスターズ水泳大会 個人メドレー</a>
 <p>&#160;</p>
  <h2> 
-      <span class="blue"><strong>メンバーの自宅は四谷のつくだ煮やさんです。なんと宮内庁御用達！</strong></span></h2>
+      <span class="blue"><strong>メンバーに、宮内庁御用達の佃煮やさんが居ます！</strong></span></h2>
  <a href="http://www.ariakeya.com/" target="_blank">四谷、佃煮「有明屋」HPへのリンク</a>
 
 <p>&#160;</p>
