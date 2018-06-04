@@ -32,7 +32,7 @@ body { background-color: #0d0015; }
 <body>
 
 <h1><span class="red"><marquee behavior="alternate">!!! ホンダ水泳同好会 !!!</marquee></span></h1>
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~torokoid</marquee></p>
 
 <!-- ヘッダ -->
  <header>
