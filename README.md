@@ -40,6 +40,16 @@ body { background-color: #0d0015; }
  </header>
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
+<p>2018/6/10の実績</p>
+
+   <p>Swim25m x 20 @30sec 
+   <br/>Swim50m x 10 @60sec
+   <br/>one hand pull right25m and left25m x4 with stream line
+   <br/>one hand pull R,L,comb25m x4 with stream line
+   <br/>kick25m x4 foot up  with stream line
+   <br/>start dash	　
+   <p>&#160;</p>
+
 <p>2018/6/3の実績</p>
 
    <p>Swim50m x 20 @60sec 
@@ -91,6 +101,9 @@ body { background-color: #0d0015; }
  <a href="https://youtu.be/i3Wonq-su-c" target="_blank">2017/10/29 第14回 栃木県マスターズ水泳 25free 6組</a><br/>
  <a href="https://youtu.be/cimOX_hp9Vk" target="_blank">2014/11/09 栃木県マスターズ水泳大会 個人メドレー</a>
 <p>&#160;</p>
+      <span class="blue"><strong>過去の映像</strong></span></h2>
+      
+
  <h2> 
       <span class="blue"><strong>メンバーに、ネットでも注文できる佃煮やさんが居ます！</strong></span></h2>
  <a href="http://www.ariakeya.com/" target="_blank">四谷、佃煮「有明家」HPへのリンク</a>
