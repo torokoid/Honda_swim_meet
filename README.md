@@ -103,8 +103,8 @@ body { background-color: #0d0015; }
 <p>&#160;</p>
  <h2>
       <span class="blue"><strong>過去の映像</strong></span></h2>
-<img src="https://torokoid.github.io/Honda_swim_meet/20121028_栃マス.JPG" alt="20121028栃マス表彰状" width="400" height="300" border="0" /><br/>
-<img src="https://torokoid.github.io/Honda_swim_meet/20140720_Japan横浜.jpg" alt="20140720Japan横浜掲示板" width="600" height="200" border="0" />
+<img src="https://torokoid.github.io/Honda_swim_meet/20121028_栃マス.JPG" alt="20121028栃マス表彰状" title="2012/10/28_栃マス表彰状" width="400" height="300" border="0" /><br/>
+<img src="https://torokoid.github.io/Honda_swim_meet/20140720_Japan横浜.jpg" alt="20140720Japan横浜掲示板"  title="2014/07/20_Japan横浜掲示板"width="600" height="200" border="0" />
 <p>&#160;</p>
  <h2> 
       <span class="blue"><strong>メンバーに、ネットでも注文できる佃煮やさんが居ます！</strong></span></h2>
