@@ -40,6 +40,15 @@ body { background-color: #0d0015; }
  </header>
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
+
+<p>2018/6/17の実績</p>
+
+   <p>Swim50m x 10 @60sec, Swim25m x 20 @30sec
+   <br/>Submaline 25m x 8 @60sec
+   <br/>Pull 50m x 4 @90sec
+   <br/>Kick 25m, Pull 25m, Swim 25m, All Out!
+   <p>&#160;</p>
+   
 <p>2018/6/10の実績</p>
 
    <p>Swim25m x 20 @30sec 
