@@ -53,8 +53,8 @@ body { background-color: #0d0015; }
 <a href="007.jpg" class="preview"><img src="007.jpg" alt="サンプル画像" width="180" /></a>
 <a href="008.jpg" class="preview"><img src="008.jpg" alt="サンプル画像" width="180" /></a>
 <a href="009.jpg" class="preview"><img src="009.jpg" alt="サンプル画像" width="180" /></a>
-<a href="010.JPG" class="preview"><img src="010.JPG" alt="サンプル画像" width="500" /></a>
-<a href="011.JPG" class="preview"><img src="011.JPG" alt="サンプル画像" width="250" /></a>
+<a href="010.JPG" class="preview"><img src="010.JPG" alt="サンプル画像" width="180" /></a>
+<a href="011.JPG" class="preview"><img src="011.JPG" alt="サンプル画像" width="180" /></a>
 <a href="012.JPG" class="preview"><img src="012.JPG" alt="サンプル画像" width="180" /></a>
 <a href="013.JPG" class="preview"><img src="013.JPG" alt="サンプル画像" width="180" /></a>
 <a href="014.JPG" class="preview"><img src="014.JPG" alt="サンプル画像" width="180" /></a>
