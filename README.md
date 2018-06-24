@@ -41,7 +41,7 @@ body { background-color: #0d0015; }
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
 <p>2018/6/24,宇都宮市民大会@ドリーム河内屋内プール</p>
-<div style="background-color:rgb(255,255,255,0.1);">
+<div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="001.JPG" class="preview"><img src="001.JPG" alt="サンプル画像" width="180" /></a>
 <h3><span class="white">↑ 鹿子木さん、くじ引きで2番ゲット！席取りは完璧でした。</span></h3><br>
@@ -59,7 +59,7 @@ body { background-color: #0d0015; }
 <a href="011.JPG" class="preview"><img src="011.JPG" alt="サンプル画像" width="180" /></a>
 <a href="012.JPG" class="preview"><img src="012.JPG" alt="サンプル画像" width="180" /></a>
 <h4><span class="white">皆様、お疲れさまでした。試合後は心地よい疲れが残りました。また、明日からガンバ～！</span></h4></div>
-<br>
+<br><br>
 
 <p>2018/6/17の実績</p>
 
