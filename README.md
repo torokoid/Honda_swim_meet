@@ -45,14 +45,14 @@ body { background-color: #0d0015; }
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="001.jpg" class="preview"><img src="001.jpg" alt="サンプル画像" width="180" /></a>
 <h6><span class="white">↑ 鹿子木さん、くじ引きで2番ゲット！席取りは完璧でした。</span></h6><br>
-<a href="002.jpg" class="preview"><img src="002.jpg" alt="サンプル画像" width="180" /></a>
-<a href="003.jpg" class="preview"><img src="003.jpg" alt="サンプル画像" width="180" /></a>
-<a href="004.jpg" class="preview"><img src="004.jpg" alt="サンプル画像" width="180" /></a>
-<a href="005.jpg" class="preview"><img src="005.jpg" alt="サンプル画像" width="180" /></a>
-<a href="006.jpg" class="preview"><img src="006.jpg" alt="サンプル画像" width="180" /></a>
-<a href="007.jpg" class="preview"><img src="007.jpg" alt="サンプル画像" width="180" /></a>
-<a href="008.jpg" class="preview"><img src="008.jpg" alt="サンプル画像" width="180" /></a>
-<a href="009.jpg" class="preview"><img src="009.jpg" alt="サンプル画像" width="180" /></a>
+<a href="002.JPG" class="preview"><img src="002.JPG" alt="サンプル画像" width="180" /></a>
+<a href="003.JPG" class="preview"><img src="003.JPG" alt="サンプル画像" width="180" /></a>
+<a href="004.JPG" class="preview"><img src="004.JPG" alt="サンプル画像" width="180" /></a>
+<a href="005.JPG" class="preview"><img src="005.JPG" alt="サンプル画像" width="180" /></a>
+<a href="006.JPG" class="preview"><img src="006.JPG" alt="サンプル画像" width="180" /></a>
+<a href="007.JPG" class="preview"><img src="007.JPG" alt="サンプル画像" width="180" /></a>
+<a href="008.JPG" class="preview"><img src="008.JPG" alt="サンプル画像" width="180" /></a>
+<a href="009.JPG" class="preview"><img src="009.JPG" alt="サンプル画像" width="180" /></a>
 <a href="010.JPG" class="preview"><img src="010.JPG" alt="サンプル画像" width="180" /></a>
 <a href="011.JPG" class="preview"><img src="011.JPG" alt="サンプル画像" width="180" /></a>
 <a href="012.JPG" class="preview"><img src="012.JPG" alt="サンプル画像" width="180" /></a>
