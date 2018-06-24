@@ -40,6 +40,25 @@ body { background-color: #0d0015; }
  </header>
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
+<p>2018/6/24,宇都宮市民大会@ドリーム河内屋内プール</p>
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<a href="001.jpg" class="preview"><img src="001.jpg" alt="サンプル画像" width="180" /></a>
+<h6><span class="white">↑ 鹿子木さん、くじ引きで2番ゲット！席取りは完璧でした。</span></h6><br>
+<a href="002.jpg" class="preview"><img src="002.jpg" alt="サンプル画像" width="180" /></a>
+<a href="003.jpg" class="preview"><img src="003.jpg" alt="サンプル画像" width="180" /></a>
+<a href="004.jpg" class="preview"><img src="004.jpg" alt="サンプル画像" width="180" /></a>
+<a href="005.jpg" class="preview"><img src="005.jpg" alt="サンプル画像" width="180" /></a>
+<a href="006.jpg" class="preview"><img src="006.jpg" alt="サンプル画像" width="180" /></a>
+<a href="007.jpg" class="preview"><img src="007.jpg" alt="サンプル画像" width="180" /></a>
+<a href="008.jpg" class="preview"><img src="008.jpg" alt="サンプル画像" width="180" /></a>
+<a href="009.jpg" class="preview"><img src="009.jpg" alt="サンプル画像" width="180" /></a>
+<a href="010.JPG" class="preview"><img src="010.JPG" alt="サンプル画像" width="500" /></a>
+<a href="011.JPG" class="preview"><img src="011.JPG" alt="サンプル画像" width="250" /></a>
+<a href="012.JPG" class="preview"><img src="012.JPG" alt="サンプル画像" width="180" /></a>
+<a href="013.JPG" class="preview"><img src="013.JPG" alt="サンプル画像" width="180" /></a>
+<a href="014.JPG" class="preview"><img src="014.JPG" alt="サンプル画像" width="180" /></a>
+<h3><span class="white">パノラマから上は櫛田さん、パノラマから下は緑川さん、背景画像は里村さんから頂きました。</span></h3></div>
 
 <p>2018/6/17の実績</p>
 
