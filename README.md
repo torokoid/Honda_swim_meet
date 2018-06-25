@@ -36,7 +36,7 @@ body { background-color: #0d0015; }
 
 <!-- ヘッダ -->
  <header>
- <h1><span class="blue"><strong>恒例練習メニュー </strong></span></h1>
+ 
  </header>
 
 <p>2018/6/24,宇都宮市民大会@ドリーム河内屋内プール</p>
@@ -60,6 +60,7 @@ body { background-color: #0d0015; }
 <h4><span class="white">皆様、お疲れさまでした。試合後は心地よい疲れが残りました。また、明日からガンバ～！</span></h4></div>
 <br><br>
 
+<h1><span class="blue"><strong>恒例練習メニュー </strong></span></h1>
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
 <p>2018/6/17の実績</p>
