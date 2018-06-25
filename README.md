@@ -39,7 +39,7 @@ body { background-color: #0d0015; }
  
  </header>
 
-<p>2018/6/24,宇都宮市民大会@ドリーム河内屋内プール</p>
+<p>2018/6/24,宇都宮市民大会@ドリーム河内屋内プール,結果</p>
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="001.JPG" class="preview"><img src="001.JPG" alt="サンプル画像" width="180" /></a>
