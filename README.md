@@ -63,7 +63,7 @@ body { background-color: #0d0015; }
 <p>&#160;</p>
  <h2> 
       <span class="blue"><strong>バタ足は上手に！</strong></span></h2>
- <a href="https://headlines.yahoo.co.jp/hl?a=20180704-00000031-asahi-spo" target="_blank">永速1.2m/s超えると抵抗に！</a><br/>
+ <a href="https://headlines.yahoo.co.jp/hl?a=20180704-00000031-asahi-spo" target="_blank">泳速1.3m/s超えると抵抗に！</a><br/>
 <p>&#160;</p>
  <h2>
 
