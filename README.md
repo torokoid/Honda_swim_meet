@@ -60,6 +60,14 @@ body { background-color: #0d0015; }
 <h4><span class="white">皆様、お疲れさまでした。試合後は心地よい疲れが残りました。また、明日からガンバ～！</span></h4></div>
 <br><br>
 
+<p>&#160;</p>
+ <h2> 
+      <span class="blue"><strong>バタ足は上手に！</strong></span></h2>
+ <a href="https://headlines.yahoo.co.jp/hl?a=20180704-00000031-asahi-spo" target="_blank">永速1.2m/s超えると抵抗に！</a><br/>
+<p>&#160;</p>
+ <h2>
+
+
 <h1><span class="blue"><strong>恒例練習メニュー </strong></span></h1>
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
