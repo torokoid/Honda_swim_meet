@@ -74,8 +74,8 @@ body { background-color: #0d0015; }
 <p>2018/7/8の実績</p>
 
    <p>Swim50m x 4 @75sec, Swim50m x 4 @70sec, Swim50m x 4 @65sec, Swim50m x 4 @60sec, Swim50m x 4 @55sec
-   <br/>R hand Bat 25m, L hand Bat 25m, R and L hand Bat 25m, R, L and Both hand Bat 25m @45sec x 3set
-   <br/>Dash
+   <br/><br/>R hand Bat 25m, L hand Bat 25m, R and L hand Bat 25m, R, L and Both hand Bat 25m @45sec x 3set
+   <br/><br/>Dash
    <p>&#160;</p>
 
 <p>2018/7/1の実績</p>
