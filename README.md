@@ -71,6 +71,13 @@ body { background-color: #0d0015; }
 <h1><span class="blue"><strong>恒例練習メニュー </strong></span></h1>
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
+<p>2018/7/8の実績</p>
+
+   <p>Swim50m x 4 @75sec, Swim50m x 4 @70sec, Swim50m x 4 @65sec, Swim50m x 4 @60sec, Swim50m x 4 @55sec
+   <br/>R hand Bat 25m, L hand Bat 25m, R and L hand Bat 25m, R, L and Both hand Bat 25m @45sec x 3set
+   <br/>Dash
+   <p>&#160;</p>
+
 <p>2018/7/1の実績</p>
 
    <p>Swim25m x 40 @30sec
