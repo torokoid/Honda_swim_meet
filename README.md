@@ -163,7 +163,7 @@ body { background-color: #0d0015; }
 <img src="https://torokoid.github.io/Honda_swim_meet/20140720_Japan横浜.jpg" alt="20140720Japan横浜掲示板" width="600" height="200" border="0" />
 <p>&#160;</p>
  <h2> 
-      <span class="yellow"><strong>メンバーに、ネットでも注文できる佃煮やさんが居ます！</strong></span>
+      <span class="yellow"><strong>メンバーに、ネットでも注文できる佃煮やさんが居ます！</strong></span><br/>
  <a href="http://www.ariakeya.com/" target="_blank">⇒ 四谷、佃煮「有明家」HPへのリンク</a></h2>
 
 <p>&#160;</p>
