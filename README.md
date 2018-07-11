@@ -164,7 +164,7 @@ body { background-color: #0d0015; }
 <p>&#160;</p>
  <h2> 
       <span class="yellow"><strong>メンバーに、ネットでも注文できる佃煮やさんが居ます！</strong></span></h2>
- <a href="http://www.ariakeya.com/" target="_blank">四谷、佃煮「有明家」HPへのリンク</a>
+ <a href="http://www.ariakeya.com/" target="_blank">⇒ 四谷、佃煮「有明家」HPへのリンク</a>
 
 <p>&#160;</p>
 <p>宇都宮の天気予報</p>
