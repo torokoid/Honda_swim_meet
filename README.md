@@ -82,7 +82,7 @@ body { background-color: #0d0015; }
    <p>&#160;</p>   
       <section>
 <p><h3>戸村さんのおすすめ、ピーナッツパドル、導入しました！　開発したのは穴沢さんの先輩です。</h3><p>
- <iframe src="https://www.amazon.co.jp/MEP-REcommendation-%E3%83%94%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84%E3%83%91%E3%83%89%E3%83%AB-S/dp/B009P08LX4/ref=sr_1_2?ie=UTF8&qid=1531643170&sr=8-2&keywords=%E3%83%94%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84%E3%83%91%E3%83%89%E3%83%AB" width="800" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <iframe src="https://www.youtube.com/watch?v=jqq2kCQRVlY" width="800" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
    <p>&#160;</p>
    
