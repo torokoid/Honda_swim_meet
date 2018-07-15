@@ -78,12 +78,19 @@ body { background-color: #0d0015; }
    <br/>R hand Bat 25m, L hand Bat 25m, R and L hand Bat 25m, 2kick1Pull @50sec x 4set
    <br/>R, L and Both hand Bat 25m, 4kick1Pull→ 2kick1Pull→ 2kick Both hand @50sec x 4set
    <p>&#160;</p>
-   
-   <p>&#160;</p>   
-      <section>
+
 <p><h3>戸村さんのおすすめ、ピーナッツパドル、導入しました！　開発したのは穴沢さんの先輩です。</h3><p>
- <iframe src="https://www.youtube.com/watch?v=jqq2kCQRVlY" width="800" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
-       </section>
+<iframe width="800" height="350" src="https://www.youtube.com/watch?v=jqq2kCQRVlY" frameborder="0" allowfullscreen></iframe>
+
+autoplay=0・・・自動で再生する(1)
+loop=0・・・繰り返す(1)
+showinfo=1・・・タイトルや評価などの情報を非表示(0)
+controls=0・・・コントロールバー非表示
+autohide=2・・・再生時にコントロールを自動的に隠す(1)、隠さない(0)、バーは隠すけど再生ボタンは表示(2)
+theme=dark・・・プレイヤーの色が白（明るいグレー）になります(light)。
+rel=1・・・関連動画を非表示に(0)
+vq=highres・・・動画を一番高い高い画質   
+   
    <p>&#160;</p>
    
 <p>2018/7/8の実績</p>
