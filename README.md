@@ -82,6 +82,7 @@ body { background-color: #0d0015; }
 <p><h3>戸村さんのおすすめ、ピーナッツパドル、導入しました！　開発したのは穴沢さんの先輩です。</h3><p>
 <iframe width="800" height="350" src="https://www.youtube.com/watch?v=jqq2kCQRVlY" frameborder="0" allowfullscreen></iframe>
 
+<!--
 autoplay=0・・・自動で再生する(1)
 loop=0・・・繰り返す(1)
 showinfo=1・・・タイトルや評価などの情報を非表示(0)
@@ -90,7 +91,7 @@ autohide=2・・・再生時にコントロールを自動的に隠す(1)、隠�
 theme=dark・・・プレイヤーの色が白（明るいグレー）になります(light)。
 rel=1・・・関連動画を非表示に(0)
 vq=highres・・・動画を一番高い高い画質   
-   
+  --> 
    <p>&#160;</p>
    
 <p>2018/7/8の実績</p>
