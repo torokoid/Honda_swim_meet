@@ -78,6 +78,11 @@ body { background-color: #0d0015; }
    <br/>R hand Bat 25m, L hand Bat 25m, R and L hand Bat 25m, 2kick1Pull @50sec x 4set
    <br/>R, L and Both hand Bat 25m, 4kick1Pull→ 2kick1Pull→ 2kick Both hand @50sec x 4set
    <p>&#160;</p>
+   
+      <section>
+<p><h3>ピーナッツパドル、導入しました！</h3><p>
+ <iframe src="https://www.amazon.co.jp/MEP-REcommendation-%E3%83%94%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84%E3%83%91%E3%83%89%E3%83%AB-S/dp/B009P08LX4/ref=sr_1_2?ie=UTF8&qid=1531643170&sr=8-2&keywords=%E3%83%94%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84%E3%83%91%E3%83%89%E3%83%AB" width="800" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
+       </section>
 
 <p>2018/7/8の実績</p>
 
