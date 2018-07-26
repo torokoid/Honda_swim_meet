@@ -57,6 +57,8 @@ body { background-color: #0d0015; }
 <a href="014.JPG" class="preview"><img src="014.JPG" alt="サンプル画像" width="180" /></a> 
 <a href="011.JPG" class="preview"><img src="011.JPG" alt="サンプル画像" width="180" /></a>
 <a href="012.JPG" class="preview"><img src="012.JPG" alt="サンプル画像" width="180" /></a>
+<p><a href="https://github.com/torokoid/Honda_swim_meet/blob/master/2018_%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E6%B0%91%E6%B0%B4%E6%B3%B3%E5%A4%A7%E4%BC%9A_%E7%B5%90%E6%9E%9C.pdf">全公式記録へのリンク</a></p> 
+ 
 <h4><span class="white">皆様、お疲れさまでした。試合後は心地よい疲れが残りました。また、明日からガンバ～！</span></h4></div>
 <br><br>
 
