@@ -73,6 +73,13 @@ body { background-color: #0d0015; }
 <h1><span class="blue"><strong>恒例練習メニュー </strong></span></h1>
 <p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
 
+ <h2> 
+      <span class="blue"><strong>7/29の練習で気づいたのですが、インターバルの合間に気功法を取り入れると回復が速いかも</strong></span></h2>
+ <a href="https://torokoid.github.io/kikou/" target="_blank">難解すぎて理解に苦しみますが・・・気功法の説明リンク</a><br/>
+<p>&#160;</p>
+ <h2>
+
+
 <p>2018/7/29の実績</p>
 
    <p>Swim50m @75secx 4, @70secx 4, @65secx 4, @60secx 4, @55secx 4
