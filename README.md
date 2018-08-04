@@ -76,6 +76,8 @@ body { background-color: #0d0015; }
  <h3> 
     <strong>7/29の練習で気づいたのですが、インターバルの合間に気功の呼吸法を取り入れると回復が速いかも</strong></h3>
  <a href="https://torokoid.github.io/kikou/" target="_blank">難解すぎて理解に苦しみますが・・・気功法の説明リンク</a><br/>
+ <a href="http://www.emei-japan.net/" target="_blank">張明亮、HPリンク</a><br>
+ <a href="http://www.emei-japan.net/wp-content/uploads/2015/03/%E5%BC%B5%E6%98%8E%E4%BA%AEIMG_0665.jpg" target="_blank">張明亮、老師アップ</a>
 <p>&#160;</p>
  
  
