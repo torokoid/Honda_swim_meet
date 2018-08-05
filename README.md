@@ -6,7 +6,7 @@
 <style type="text/css">
  p {
 color: #f7fcfe;
-font-size: 1.5em;
+font-size: 1em;
  }
 <!--
  .red {color:#ff0000;}
