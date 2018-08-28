@@ -83,6 +83,14 @@ body { background-color: #0d0015; }
  
  
  <h2>
+  <p>2018/8/19(夏休み明け)の実績</p>
+
+   <p>Swim25m @30sec x 40
+   <br/>R hand Bat 25m, L hand Bat 25m, hand Bat 25m, @75sec x 4set
+   <br/>Bat 1-Pull and 1-Breth 25m, 2-Pull and 1-Breth 25m, @75sec x 4set
+   <br/>Bat start dash, @75sec x 4set
+   <p>&#160;</p>
+   
  <p>2018/8/5の実績</p>
 
    <p>Swim50m @75secx 4, @70secx 4, @65secx 4, @60sec x 4, @55secx 4
