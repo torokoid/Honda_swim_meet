@@ -232,9 +232,9 @@ body { background-color: #0d0015; }
  <p>&#160;</p>
             <p>2008/8/2_つくね亭</p>
 <a href="080802水泳集まり@つくね亭 (1).JPG" class="preview" data-lightbox="bcd" data-title="080802水泳集まり@つくね亭_1"><img src="080802水泳集まり@つくね亭 (1).JPG" alt="20080802つくね亭_1" width="400" height="300" border="0" /><br/>
-<a href="080802水泳集まり@つくね亭 (2).JPG" class="preview" data-lightbox="bcd" data-title="080802水泳集まり@つくね亭_2"><img src="080802水泳集まり@つくね亭 (2).JPG" alt="20080802つくね亭_1" width="400" height="300" border="0" /><br/>
-<a href="CIMG2218.JPG" class="preview" data-lightbox="bcd" data-title="080802水泳集まり@つくね亭_3"><img src="CIMG2218.JPG" alt="20080802つくね亭_1" width="400" height="300" border="0" /><br/>
-<a href="CIMG2217.JPG" class="preview" data-lightbox="bcd" data-title="080802水泳集まり@つくね亭_4"><img src="CIMG2217.JPG" alt="20080802つくね亭_1" width="400" height="300" border="0" /><br/>
+<a href="080802水泳集まり@つくね亭 (2).JPG" class="preview" data-lightbox="bcd" data-title="080802水泳集まり@つくね亭_2"><img src="080802水泳集まり@つくね亭 (2).JPG" alt="080802水泳集まり@つくね亭_2" width="400" height="300" border="0" /><br/>
+<a href="CIMG2218.JPG" class="preview" data-lightbox="bcd" data-title="080802水泳集まり@つくね亭_3"><img src="CIMG2218.JPG" alt="20080802つくね亭_3" width="400" height="300" border="0" /><br/>
+<a href="CIMG2217.JPG" class="preview" data-lightbox="bcd" data-title="080802水泳集まり@つくね亭_4"><img src="CIMG2217.JPG" alt="20080802つくね亭_4" width="400" height="300" border="0" /><br/>
 
 <p>&#160;</p>
 
