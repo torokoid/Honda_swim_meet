@@ -229,6 +229,12 @@ body { background-color: #0d0015; }
 <p>&#160;</p>
             <p>2009/8/1_実業団表彰状</p>
 <a href="20090801_jitsugyoudan.JPG" class="preview" data-lightbox="bcd"><img src="https://torokoid.github.io/Honda_swim_meet/20090801_jitsugyoudan.JPG" alt="20120801実業団表彰状" width="400" height="300" border="0" /><br/>
+ <p>&#160;</p>
+            <p>2008/8/2_つくね亭</p>
+<a href="080802水泳集まり@つくね亭 (1).JPG" class="preview" data-lightbox="cdf"><img src="080802水泳集まり@つくね亭 (1).JPG" alt="20080802つくね亭_1" width="400" height="300" border="0" /><br/>
+<a href="080802水泳集まり@つくね亭 (2).JPG" class="preview" data-lightbox="cdf"><img src="080802水泳集まり@つくね亭 (2).JPG" alt="20080802つくね亭_1" width="400" height="300" border="0" /><br/>
+<a href="CIMG2218.JPG" class="preview" data-lightbox="cdf"><img src="CIMG2218.JPG" alt="20080802つくね亭_1" width="400" height="300" border="0" /><br/>
+<a href="CIMG2217.JPG" class="preview" data-lightbox="cdf"><img src="CIMG2217.JPG" alt="20080802つくね亭_1" width="400" height="300" border="0" /><br/>
 
 <p>&#160;</p>
 
