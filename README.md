@@ -73,6 +73,24 @@ body { background-color: #0d0015; }
 <h1><span class="blue"><strong>恒例練習メニュー </strong></span></h1>
 <h2><p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p></h2>
 
+<h2>
+  <p>2018/10/14(大会前特別メニュー)の元ネタメニュー from 戸村さん！</p>
+   <p>                                               Style  Rest       SYS Dist HR  Time 
+   <br>Attack        Dryland Training & Stretching                                 0:10
+   <br>W-up 50*8     Smooth Swim Choice                Ch    on1'15"   A1  400  120 0:12
+   <br>R hand Bat 25m, L hand Bat 25m, hand Bat 25m, @75sec x 4set
+   <br>Bat 1-Pull and 1-Breth 25m, 2-Pull and 1-Breth 25m, @75sec x 4set
+   <br>Bat start dash, @75sec x 4set
+   <br>Swim25m @30sec x 40
+   <br>R hand Bat 25m, L hand Bat 25m, hand Bat 25m, @75sec x 4set
+   <br>Bat 1-Pull and 1-Breth 25m, 2-Pull and 1-Breth 25m, @75sec x 4set
+   <br>Bat start dash, @75sec x 4set
+   <br>Swim25m @30sec x 40
+   <br>R hand Bat 25m, L hand Bat 25m, hand Bat 25m, @75sec x 4set
+   <br>Bat 1-Pull and 1-Breth 25m, 2-Pull and 1-Breth 25m, @75sec x 4set
+   <br>Bat start dash, @75sec x 4set
+   <p>&#160;</p>
+
  <h3> 
     <strong>7/29の練習で気づいたのですが、インターバルの合間に気功の呼吸法を取り入れると回復が速いかも</strong></h3>
  <a href="https://torokoid.github.io/kikou/" target="_blank">難解すぎて理解に苦しみますが・・・張明亮、著「気功の真髄」、PC,スマホ用</a><br/>
