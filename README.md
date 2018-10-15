@@ -75,7 +75,7 @@ body { background-color: #0d0015; }
 
 <h2>
   <p>2018/10/14(大会前特別メニュー)の元ネタメニュー from 戸村さん！</p>
-   <p>&thinsp;&thinsp;&thinsp;&thinsp;Style&thinsp;Rest&thinsp;SYS&thinsp;Dist&thinsp;HR&thinsp;Time 
+   <p>Menu&thinsp;Style&thinsp;Rest&thinsp;SYS&thinsp;Dist&thinsp;HR&thinsp;Time 
    <br>Attack        Dryland Training & Stretching                                 0:10
    <br>W-up 50*8     Smooth Swim Choice                Ch    on1'15"   A1  400  120 0:12
    <br>R hand Bat 25m, L hand Bat 25m, hand Bat 25m, @75sec x 4set
