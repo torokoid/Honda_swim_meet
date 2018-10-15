@@ -78,9 +78,8 @@ body { background-color: #0d0015; }
    <p><span class="waku">Menu&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Style&emsp;Rest&emsp;&emsp;&emsp;SYS&emsp;&emsp;Dist&emsp;HR&emsp;Time 
    <br>Attack&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dryland Training & Stretching&emsp;&emsp;&emsp;&emsp;0:10
    <br>W-up&emsp;&emsp;50*8&emsp;&emsp;Smooth Swim Choice&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ch&emsp;on1'15"&emsp;A1&emsp;&emsp;400&emsp;120&emsp;0:12
-   <br>Kick&emsp;&emsp;200*1&emsp;Smooth-BuildUp/25m-Smooth/50m}:2&emsp;&emsp;Fr/S
-    1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;EN1&emsp;&emsp;200&emsp;140&emsp;0:07
-   <br>Pull&emsp;&emsp;200*1&emsp;Smooth-BuildUp/25m-Smooth/50m}:2&emsp;&emsp;Fr/S1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;EN1&emsp;&emsp;200&emsp;140&emsp;0:05
+   <br>Kick&emsp;&emsp;200*1&emsp;Smooth-BuildUp/25m-Smooth/50m}:2&emsp;&emsp;Fr/S1&emsp;EN1&emsp;&emsp;200&emsp;140&emsp;0:07
+   <br>Pull&emsp;&emsp;200*1&emsp;Smooth-BuildUp/25m-Smooth/50m}:2&emsp;&emsp;Fr/S1&emsp;EN1&emsp;&emsp;200&emsp;140&emsp;0:05
 <br>Swim&emsp;&emsp;{25*8,50*1}*2R&emsp;&emsp;StrokeCountSwimRecovery&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Fr/S1,Ch&emsp;on30"&emsp;A2,A1&emsp;&emsp;400,100&emsp;130,120&emsp;0:12
    <br>Swim25m @30sec x 40
    <br>R hand Bat 25m, L hand Bat 25m, hand Bat 25m, @75sec x 4set
