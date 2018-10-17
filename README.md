@@ -73,24 +73,6 @@ body { background-color: #0d0015; }
 <h1><span class="blue"><strong>恒例練習メニュー </strong></span></h1>
 <h2><p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p></h2>
 
-<h2>
-  <p>2018/10/14(大会前特別メニュー)の元ネタメニュー from 戸村さん！</p>
-   <p><span class="waku">Menu&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Style&emsp;Rest&emsp;&emsp;&emsp;SYS&emsp;&emsp;Dist&emsp;HR&emsp;Time 
-   <br>Attack&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dryland Training & Stretching&emsp;&emsp;&emsp;&emsp;0:10
-   <br>W-up&emsp;&emsp;50*8&emsp;&emsp;Smooth Swim Choice&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ch&emsp;on1'15"&emsp;A1&emsp;&emsp;400&emsp;120&emsp;0:12
-   <br>Kick&emsp;&emsp;200*1&emsp;Smooth-BuildUp/25m-Smooth/50m}:2&emsp;Fr/S1&emsp;EN1&emsp;200&emsp;140&emsp;0:07
-   <br>Pull&emsp;&emsp;200*1&emsp;Smooth-BuildUp/25m-Smooth/50m}:2&emsp;Fr/S1&emsp;EN1&emsp;200&emsp;140&emsp;0:05
-<br>Swim&emsp;&emsp;{25*8,50*1}*2R&emsp;&emsp;StrokeCountSwimRecovery&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Fr/S1,Ch&emsp;on30"&emsp;A2,A1&emsp;&emsp;400,100&emsp;130,120&emsp;0:12
-   <br>Swim25m @30sec x 40
-   <br>R hand Bat 25m, L hand Bat 25m, hand Bat 25m, @75sec x 4set
-   <br>Bat 1-Pull and 1-Breth 25m, 2-Pull and 1-Breth 25m, @75sec x 4set
-   <br>Bat start dash, @75sec x 4set
-   <br>Swim25m @30sec x 40
-   <br>R hand Bat 25m, L hand Bat 25m, hand Bat 25m, @75sec x 4set
-   <br>Bat 1-Pull and 1-Breth 25m, 2-Pull and 1-Breth 25m, @75sec x 4set
-    <br>Bat start dash, @75sec x 4set</span>
-   <p>&#160;</p>
-
  <h3> 
     <strong>7/29の練習で気づいたのですが、インターバルの合間に気功の呼吸法を取り入れると回復が速いかも</strong></h3>
  <a href="https://torokoid.github.io/kikou/" target="_blank">難解すぎて理解に苦しみますが・・・張明亮、著「気功の真髄」、PC,スマホ用</a><br/>
