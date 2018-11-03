@@ -46,7 +46,7 @@ body { background-color: #0d0015; }
  <a href="https://youtu.be/80XFxjov_Bs" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 鹿子木選手、個人メドレー</a><br/>
  <a href="https://youtu.be/naru_TzY2WA" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 大森選手、個人メドレー、大会新！</a><br/>
  <a href="https://youtu.be/DPzenWtRH68" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 佐々木選手、個人メドレー</a><br/>
- <a href="https://youtu.be/q_8addKlchI" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 フリーリレー、1位</a>
+ <a href="https://youtu.be/q_8addKlchI" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 大森・浜田・大谷・坂本、フリーリレー、1位</a>
 <p>&#160;</p>
  <h2>
 
