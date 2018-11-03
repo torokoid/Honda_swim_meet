@@ -44,11 +44,17 @@ body { background-color: #0d0015; }
  
  <h2>     <span class="blue"><strong>大会動画リンク集</strong></span></h2>
  <h2>
-<p,個人メドレー、フリーリレー動画</p></h2>
+<p,個人メドレー、フリーリレー、25Free動画</p></h2>
  <a href="https://youtu.be/80XFxjov_Bs" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 鹿子木選手、個人メドレー</a><br/>
  <a href="https://youtu.be/naru_TzY2WA" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 大森選手、個人メドレー、大会新！</a><br/>
  <a href="https://youtu.be/DPzenWtRH68" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 佐々木選手、個人メドレー</a><br/>
- <a href="https://youtu.be/q_8addKlchI" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 大森・浜田・大谷・坂本、フリーリレー、1位</a>
+ <a href="https://youtu.be/q_8addKlchI" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 大森・浜田・大谷・坂本、フリーリレー、1位</a><br>
+<a href="https://youtu.be/3Ufe540ULL4" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、星野</a><br>
+<a href="https://youtu.be/FxJTun8epY4" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、浜田、丹野</a><br>
+<a href="https://youtu.be/1hfmemJCs1o" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、羽田</a><br>
+<a href="https://youtu.be/hOLCnzY4jAU" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、新井、米久保</a><br>
+<a href="https://youtu.be/Ur769ZHkBuM" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、坂本</a><br>
+<a href="https://youtu.be/YUN40_5U0ik" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、？？</a><br>
 <p>&#160;</p>
  <h2>
 <div style="background-color:rgb(255,255,255,0.2);">
