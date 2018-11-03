@@ -44,7 +44,7 @@ body { background-color: #0d0015; }
  
  <h2>     <span class="blue"><strong>大会動画リンク集</strong></span></h2>
  <h2>
-<p,個人メドレー、フリーリレー、25Free動画</p></h2>
+<p>個人メドレー、フリーリレー、25Free動画</p></h2>
  <a href="https://youtu.be/80XFxjov_Bs" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 鹿子木選手、個人メドレー</a><br/>
  <a href="https://youtu.be/naru_TzY2WA" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 大森選手、個人メドレー、大会新！</a><br/>
  <a href="https://youtu.be/DPzenWtRH68" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 佐々木選手、個人メドレー</a><br/>
