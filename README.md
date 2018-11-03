@@ -79,7 +79,7 @@ body { background-color: #0d0015; }
 <a href="181103_party_6.JPG" class="preview" data-lightbox="abc"><img src="181103_party_6.JPG" alt="サンプル画像" width="180" /></a>
 <a href="181103_party_7.JPG" class="preview" data-lightbox="abc"><img src="181103_party_7.JPG" alt="サンプル画像" width="180" /></a>
 <a href="181103_party_8.JPG" class="preview" data-lightbox="abc"><img src="181103_party_8.JPG" alt="サンプル画像" width="180" /></a>
-<a href="181103_party_9.JPG" class="preview" data-lightbox="abc"><img src="181103_party_9.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181103_party_9.JPG" class="preview" data-lightbox="abc"><img src="181103_party_9.JPG" alt="サンプル画像" width="135" /></a>
  </div>
 
 
