@@ -53,8 +53,8 @@ body { background-color: #0d0015; }
 <a href="https://youtu.be/FxJTun8epY4" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、浜田、丹野</a><br>
 <a href="https://youtu.be/1hfmemJCs1o" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、羽田</a><br>
 <a href="https://youtu.be/hOLCnzY4jAU" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、新井、米久保</a><br>
-<a href="https://youtu.be/Ur769ZHkBuM" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、坂本</a><br>
-<a href="https://youtu.be/YUN40_5U0ik" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、？？</a><br>
+<a href="https://youtu.be/Ur769ZHkBuM" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、坂本？</a><br>
+<a href="https://youtu.be/YUN40_5U0ik" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 25フリー、坂本？</a><br>
 <p>&#160;</p>
  <h2>
 <div style="background-color:rgb(255,255,255,0.2);">
