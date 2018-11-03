@@ -39,6 +39,19 @@ body { background-color: #0d0015; }
  
  </header>
 
+<p>2018/11/03,栃木県マスターズ@小山屋内プール,個人メドレー、フリーリレー動画</p>
+ <h2> 
+      <span class="blue"><strong>大会動画リンク集</strong></span></h2>
+ <a href="https://youtu.be/80XFxjov_Bs" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 鹿子木選手コメ</a><br/>
+ <a href="https://youtu.be/naru_TzY2WA" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 佐々木選手コメ</a><br/>
+ <a href="https://youtu.be/DPzenWtRH68" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 大森選手コメ、大会新！</a><br/>
+ <a href="https://youtu.be/q_8addKlchI" target="_blank">2018/11/03 第15回 栃木県マスターズ水泳 フリーリレー、1位</a>
+<p>&#160;</p>
+ <h2>
+
+
+<br><br>
+
 <p>2018/6/24,宇都宮市民大会@ドリーム河内屋内プール,結果</p>
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
