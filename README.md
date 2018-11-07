@@ -104,7 +104,7 @@ body { background-color: #0d0015; }
 
 <br><br>
 
-<p>2018/6/24,宇都宮市民大会@ドリーム河内屋内プール,結果</p>
+<h2><p>2018/6/24,宇都宮市民大会@ドリーム河内屋内プール,結果</p></h2>
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="white">↓ 画像はクリックでスライドショー表示します。</span></h3>
 <a href="001.JPG" class="preview" data-lightbox="abc"><img src="001.JPG" alt="サンプル画像" width="180" /></a>
