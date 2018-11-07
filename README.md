@@ -88,6 +88,7 @@ body { background-color: #0d0015; }
 
 <h2><p>清水さん、大谷さんの部屋</p></h2>
  <h2><span class="blue"><strong>水中動画リンク集</strong></span></h2>
+<div style="background-color:rgb(255,255,255,0.2);">
 <a href="https://youtu.be/D9PpGDoAyGc" target="_blank">shimizu Dolphin1</a><br/>
 <a href="https://youtu.be/6hSp8jaR0so" target="_blank">shimizu Dolphin2</a><br/>
 <a href="https://youtu.be/W3g8HG0-Fho" target="_blank">2018.10.28 Shimizu jump</a><br/>
@@ -99,6 +100,7 @@ body { background-color: #0d0015; }
 <a href="https://youtu.be/g1-Ok0PAvQs" target="_blank">2018.10.21 Otani front view</a><br/>
 <a href="https://youtu.be/iKFsGIYg9Mk" target="_blank">2018.10.14 Otani1</a><br/>
 <a href="https://youtu.be/uSRWeZC5CR0" target="_blank">2018.10.14 Otani2</a><br/>
+</div>
 
 <br><br>
 
