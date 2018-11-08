@@ -58,7 +58,7 @@ body { background-color: #0d0015; }
 <p>&#160;</p>
  <h2>
 <div style="background-color:rgb(255,255,255,0.2);">
-<h3><span class="white">↓ 画像はクリックでスライドショー表示します。（AMの競技のみ）</span></h3>
+<h3><span class="white">↓ 画像はクリックでスライドショー表示します。（入手できた記録のみ）</span></h3>
 <a href="181103_kom_1.JPG" class="preview" data-lightbox="abc"><img src="181103_kom_1.JPG" alt="サンプル画像" width="180" /></a>
 <a href="181103_kom_2.JPG" class="preview" data-lightbox="abc"><img src="181103_kom_2.JPG" alt="サンプル画像" width="180" /></a>
 <a href="1come.JPG" class="preview" data-lightbox="abc"><img src="1come.JPG" alt="サンプル画像" width="180" /></a>
