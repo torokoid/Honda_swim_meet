@@ -72,7 +72,7 @@ body { background-color: #0d0015; }
 <a href="IMG_2475.JPG" class="preview" data-lightbox="abc"><img src="IMG_2475.JPG" alt="サンプル画像" width="180" /></a>
 <a href="50free.JPG" class="preview" data-lightbox="abc"><img src="50free.JPG" alt="サンプル画像" width="180" /></a>
 <a href="50bat.JPG" class="preview" data-lightbox="abc"><img src="50bat.JPG" alt="サンプル画像" width="180" /></a>
-
+<br>
 <p><a href="http://www.tochigi-swim.com/data/0918721r.pdf">全公式記録へのリンク</a></p> 
 
 <br><br>
