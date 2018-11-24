@@ -110,7 +110,7 @@ body { background-color: #0d0015; }
 <h2><p>2018/6/24,宇都宮市民大会@ドリーム河内屋内プール,結果</p></h2>
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="white">↓ 画像はクリックでスライドショー表示します。</span></h3>
-<a href="001.JPG" class="preview" data-lightbox="abc"><img src="001.JPG" alt="サンプル画像" width="180" /></a>
+<a href="001.JPG" class="preview" data-lightbox="abc"><img src="001.JPG" alt="サンプル画像" width="360" /></a>
 <h3><span class="white">↑ 鹿子木さん、くじ引きで2番ゲット！席取りは完璧でした。</span></h3><br>
 <a href="002.JPG" class="preview" data-lightbox="abc"><img src="002.JPG" alt="サンプル画像" width="180" /></a>
 <a href="004.JPG" class="preview" data-lightbox="abc"><img src="004.JPG" alt="サンプル画像" width="180" /></a>
