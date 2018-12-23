@@ -41,9 +41,9 @@ body { background-color: #0d0015; }
 
 <h2>
 <p>2018/11/03,栃木県マスターズ@小山屋内プール,結果</p></h2>
-<h3><p>大会専用マスコット、Reading Cat!登場</p></h3><br><br>
+<h3><p>大会専用マスコット、Reading Cat!登場</p></h3>
 <a href="Reading cat.pdf" class="preview" data-lightbox="abc"><img src="Reading cat.pdf" alt="サンプル画像" width="180" /></a>
- 
+ <br><br>
  <h2>     <span class="blue"><strong>大会動画リンク集</strong></span></h2>
  <h2>
 <p>個人メドレー、フリーリレー、25Free動画</p></h2>
