@@ -42,8 +42,8 @@ body { background-color: #0d0015; }
 <h2>
 <p>2018/11/03,栃木県マスターズ@小山屋内プール,結果</p></h2>
 <h2><p>大会専用マスコット、Reading Cat ! 登場</p></h2>
-<a href="Reading%20cat.pdf
-" class="preview" data-lightbox="abc"><img src="Reading%20cat.pdf
+<a href="https://github.com/torokoid/Honda_swim_meet/blob/master/Reading%20cat.pdf
+" class="preview" data-lightbox="abc"><img src="https://github.com/torokoid/Honda_swim_meet/blob/master/Reading%20cat.pdf
 " alt="サンプル画像" width="180" /></a>
 
 <object data="Reading%20cat.pdf" type="application/pdf" width="100%" height="100%">
