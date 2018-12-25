@@ -46,8 +46,7 @@ body { background-color: #0d0015; }
 
 <object data="pdf.pdf#page=2" type="application/pdf" width="100%" height="100%">
     <iframe src="pdf.pdf#page=2" width="100%" height="100%">
-    <p><b>表示されない時の表示</b>: <a href="https://github.com/torokoid/Honda_swim_meet/blob/master/Reading_cat.pdf
-">PDF をダウンロード</a>.</p>
+    <p><b>表示されない時の表示</b>: <a href="https://github.com/torokoid/Honda_swim_meet/blob/master/Reading_cat.pdf">PDF をダウンロード</a>.</p>
     </iframe>
 </object>
 
