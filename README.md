@@ -40,6 +40,27 @@ body { background-color: #0d0015; }
  </header>
 
 <h2>
+<p>2019/06/30,宇都宮市民大会@ドリーム河内プール,結果</p></h2>
+<div style="background-color:rgb(255,255,255,0.2);">
+<h3><span class="white">↓ 画像はクリックでスライドショー表示します。（タイムの部分、撮影し損ねてます）</span></h3>
+<a href="20190630_006.jpg" class="preview" data-lightbox="abc"><img src="20190630_006.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_007.jpg" class="preview" data-lightbox="abc"><img src="20190630_007.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_008.jpg" class="preview" data-lightbox="abc"><img src="20190630_008.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_005.jpg" class="preview" data-lightbox="abc"><img src="20190630_005.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_001.jpg" class="preview" data-lightbox="abc"><img src="20190630_001.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_002.jpg" class="preview" data-lightbox="abc"><img src="20190630_002.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_003.jpg" class="preview" data-lightbox="abc"><img src="20190630_003.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_004.jpg" class="preview" data-lightbox="abc"><img src="20190630_004.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_010.jpg" class="preview" data-lightbox="abc"><img src="20190630_010.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_011.jpg" class="preview" data-lightbox="abc"><img src="20190630_011.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_012.jpg" class="preview" data-lightbox="abc"><img src="20190630_012.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20190630_013.jpg" class="preview" data-lightbox="abc"><img src="20190630_013.jpg" alt="サンプル画像" width="180" /></a>
+
+
+ </div>
+<br><br>
+
+<h2>
 <p>2018/11/03,栃木県マスターズ@小山屋内プール,結果</p></h2>
 <h2><p>大会専用マスコット、Reading Cat ! 登場</p></h2>
 <a href="Reading_cat.pdf" class="preview" data-lightbox="abc"><img src="Reading_cat.pdf" alt="サンプル画像" width="180" /></a>
