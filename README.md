@@ -74,6 +74,13 @@ body { background-color: #0d0015; }
 <br><br>
 <h2><p>50バック　鹿子木選手　8コース </p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BpI6uZMSJq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<h2><p>50バッタ　大谷選手　1コース </p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dou1TODP3ro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<h2><p>50バッタ　１コース大森選手　5コース三宅選手 </p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wwplKBePzCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br><br><br><br>
 <h2>
 <p>2019/06/30,宇都宮市民大会@ドリーム河内プール,結果</p></h2>
