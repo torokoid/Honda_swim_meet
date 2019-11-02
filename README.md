@@ -41,7 +41,7 @@ body { background-color: #0d0015; }
 
 <h2>
 <p>2019/10/27,栃木県マスターズ@小山屋内プール,結果</p></h2><br><br>
-<h2>     <span class="blue"><strong>大会動画リンク集</strong></span></h2><br><br>
+<h2>     <span class="blue"><strong>大会動画リンク集・・・手持ちの動画、募集中！</strong></span></h2><br><br>
 <h2><p>フリーリレー200歳, 鹿子木、大谷、浜田哲郎、三宅　56秒02 1位　2コース</p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fv98nT5oXFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
