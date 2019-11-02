@@ -40,31 +40,7 @@ body { background-color: #0d0015; }
  </header>
 
 <h2>
-<p>2019/10/27,栃木県マスターズ@小山屋内プール,結果</p></h2>
-<h3><span class="white">↓ 画像はクリックでスライドショー表示します。（まだ暫定です）</span></h3>
-<a href="20191027_001.JPG" data-lightbox="abc"><img src="20191027_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_002.JPG" data-lightbox="abc"><img src="20191027_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_003.JPG" data-lightbox="abc"><img src="20191027_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_004.JPG" data-lightbox="abc"><img src="20191027_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_005.JPG" data-lightbox="abc"><img src="20191027_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_006.JPG" data-lightbox="abc"><img src="20191027_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_007.JPG" data-lightbox="abc"><img src="20191027_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_008.JPG" data-lightbox="abc"><img src="20191027_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_009.JPG" data-lightbox="abc"><img src="20191027_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_010.JPG" data-lightbox="abc"><img src="20191027_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_011.JPG" data-lightbox="abc"><img src="20191027_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_012.JPG" data-lightbox="abc"><img src="20191027_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_013.JPG" data-lightbox="abc"><img src="20191027_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_014.JPG" data-lightbox="abc"><img src="20191027_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_015.JPG" data-lightbox="abc"><img src="20191027_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_016.JPG" data-lightbox="abc"><img src="20191027_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_017.JPG" data-lightbox="abc"><img src="20191027_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_018.JPG" data-lightbox="abc"><img src="20191027_018.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_019.JPG" data-lightbox="abc"><img src="20191027_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_020.JPG" data-lightbox="abc"><img src="20191027_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_021.JPG" data-lightbox="abc"><img src="20191027_021.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191027_022.JPG" data-lightbox="abc"><img src="20191027_022.JPG" alt="サンプル画像" width="900" /></a>
-<br>
+<p>2019/10/27,栃木県マスターズ@小山屋内プール,結果</p></h2><br><br>
 <h2>     <span class="blue"><strong>大会動画リンク集</strong></span></h2><br><br>
 <h2><p>フリーリレー200歳, 鹿子木、大谷、浜田哲郎、三宅　56秒02 1位　2コース</p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fv98nT5oXFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -86,6 +62,33 @@ body { background-color: #0d0015; }
 <br><br>
 <h2><p>50フリー　浜田渓太選手　3コース </p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OrlwU-Z_0b0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3><span class="white">↓ 画像はクリックでスライドショー表示します。（まだ暫定です）</span></h3>
+<a href="20191027_001.JPG" data-lightbox="abc"><img src="20191027_001.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20191027_003.JPG" data-lightbox="abc"><img src="20191027_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_004.JPG" data-lightbox="abc"><img src="20191027_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_005.JPG" data-lightbox="abc"><img src="20191027_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_006.JPG" data-lightbox="abc"><img src="20191027_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_007.JPG" data-lightbox="abc"><img src="20191027_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_008.JPG" data-lightbox="abc"><img src="20191027_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_009.JPG" data-lightbox="abc"><img src="20191027_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_010.JPG" data-lightbox="abc"><img src="20191027_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_011.JPG" data-lightbox="abc"><img src="20191027_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_012.JPG" data-lightbox="abc"><img src="20191027_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_013.JPG" data-lightbox="abc"><img src="20191027_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_014.JPG" data-lightbox="abc"><img src="20191027_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_015.JPG" data-lightbox="abc"><img src="20191027_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_016.JPG" data-lightbox="abc"><img src="20191027_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_017.JPG" data-lightbox="abc"><img src="20191027_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_002.JPG" data-lightbox="abc"><img src="20191027_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_018.JPG" data-lightbox="abc"><img src="20191027_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_019.JPG" data-lightbox="abc"><img src="20191027_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_020.JPG" data-lightbox="abc"><img src="20191027_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_021.JPG" data-lightbox="abc"><img src="20191027_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191027_022.JPG" data-lightbox="abc"><img src="20191027_022.JPG" alt="サンプル画像" width="900" /></a>
+<br>
+
 
 <br><br><br><br>
 <h2>
