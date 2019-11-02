@@ -80,6 +80,12 @@ body { background-color: #0d0015; }
 <br><br>
 <h2><p>50バッタ　１コース大森選手　5コース三宅選手 </p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wwplKBePzCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<h2><p>50フリー　新井選手　1コース </p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ha8JzrVuElo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<h2><p>50フリー　浜田渓太選手　3コース </p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OrlwU-Z_0b0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br><br><br>
 <h2>
