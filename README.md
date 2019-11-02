@@ -66,10 +66,14 @@ body { background-color: #0d0015; }
 <a href="20191027_022.JPG" data-lightbox="abc"><img src="20191027_022.JPG" alt="サンプル画像" width="900" /></a>
 <br>
 <h2>     <span class="blue"><strong>大会動画リンク集</strong></span></h2>
-<h2><p>フリーリレー200歳</p></h2>
+<h2><p>フリーリレー200歳, 鹿子木、大谷、浜田哲郎、三宅　56秒02 1位　2コース</p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fv98nT5oXFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h2><p>フリーリレー160歳</p></h2>
+<br>
+<h2><p>フリーリレー160歳, 大森、羽田、佐々木、浜田渓太　53秒31 3位　4コース</p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6IWTMVxYnf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<h2><p>50バック　鹿子木選手　8コース </p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BpI6uZMSJq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><br><br>
 <h2>
 <p>2019/06/30,宇都宮市民大会@ドリーム河内プール,結果</p></h2>
