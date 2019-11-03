@@ -60,6 +60,9 @@ body { background-color: #0d0015; }
 <h2><p>50フリー　新井選手　1コース </p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ha8JzrVuElo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
+<h2><p>50フリー　米久保選手　7コース </p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s9mPyoP7tVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
 <h2><p>50フリー　浜田渓太選手　3コース </p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OrlwU-Z_0b0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
