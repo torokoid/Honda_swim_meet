@@ -66,6 +66,9 @@ body { background-color: #0d0015; }
 <h2><p>50フリー　浜田渓太選手　3コース </p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OrlwU-Z_0b0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p><a href="http://www.tochigi-swim.com/data/0919721r.pdf">全公式記録へのリンク</a></p> 
+
+
 <h3><span class="white">↓ 画像はクリックでスライドショー表示します。（まだ暫定です）</span></h3>
 <a href="20191027_001.JPG" data-lightbox="abc"><img src="20191027_001.JPG" alt="サンプル画像" width="900" /></a>
 
