@@ -40,6 +40,20 @@ body { background-color: #0d0015; }
  </header>
 
 <h2>
+<p>１９９７/７/27の宇都宮市民大会の映像が2020/6/4に、米久保さんより共有されました</p></h2><br><br>
+<a href="https://photos.app.goo.gl/ZySHuiBuw7xRcTFQ9" target="_blank">その１</a><br>
+<a href="https://photos.app.goo.gl/P41hJjvnJNFUu7vJA" target="_blank">その2</a><br>
+<a href="https://photos.app.goo.gl/dtCpJpAWy5zPnmQ1A" target="_blank">その3</a><br>
+<a href="https://photos.app.goo.gl/PjyQv4wWBkRwaZodA" target="_blank">その4</a><br>
+<a href="https://photos.app.goo.gl/PXFXGwUGtr4Vsgvg6" target="_blank">その5</a><br>
+<a href="https://photos.app.goo.gl/XJhvcSk6yfXrotXz5" target="_blank">その6</a><br>
+<a href="https://photos.app.goo.gl/AZnJrhL6pU5cSWfd6" target="_blank">その7</a><br>
+<a href="https://photos.app.goo.gl/UC6NeirwjBQFtgPk9" target="_blank">その8</a><br>
+<a href="https://photos.app.goo.gl/VejKdyDQJ8QitAqm9" target="_blank">その9</a><br>
+
+
+
+<h2>
 <p>2019/10/27,栃木県マスターズ@小山屋内プール,結果</p></h2><br><br>
 <h2>     <span class="blue"><strong>大会動画リンク集・・・手持ちの動画、募集中！</strong></span></h2><br><br>
 <h2><p>フリーリレー200歳, 鹿子木、大谷、浜田哲郎、三宅　56秒02 1位　2コース</p></h2>
@@ -382,8 +396,8 @@ body { background-color: #0d0015; }
  <a href="https://youtu.be/cimOX_hp9Vk" target="_blank">2014/11/09 栃木県マスターズ水泳大会 個人メドレー</a>
 <p>&#160;</p>
  <h2>
-      <span class="blue"><strong>過去の映像</strong></span></h2>
-            <p>2014/07/20_Japan横浜掲示板</p>
+      <span class="blue"><strong>過去の映像</strong></span>
+            <p>2014/07/20_Japan横浜掲示板</p></h2>
 <a href="20140720_Japan横浜.jpg" class="preview" data-lightbox="bcd" data-title="2014/07/20_Japan横浜掲示板"><img src="20140720_Japan横浜.jpg" alt="20140720Japan横浜掲示板" width="600" height="200" border="0" />
 <p>&#160;</p>
       <p>2012/10/28_栃マス表彰状</p>
