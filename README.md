@@ -40,7 +40,7 @@ body { background-color: #0d0015; }
  </header>
 
 <h2>
-<p>1997/7/27の宇都宮市民大会の映像が2020/6/4に、米久保さんより共有されました</p></h2><br><br>
+<p>1997/7/27の宇都宮市民大会の映像が2020/6/4に、米久保さんより共有されました</p></h2><br>
 <a href="https://photos.app.goo.gl/ZySHuiBuw7xRcTFQ9" target="_blank">その1,</a>
 <a href="https://photos.app.goo.gl/P41hJjvnJNFUu7vJA" target="_blank">その2,</a>
 <a href="https://photos.app.goo.gl/dtCpJpAWy5zPnmQ1A" target="_blank">その3,</a>
@@ -48,8 +48,8 @@ body { background-color: #0d0015; }
 <a href="https://photos.app.goo.gl/PXFXGwUGtr4Vsgvg6" target="_blank">その5,</a>
 <a href="https://photos.app.goo.gl/XJhvcSk6yfXrotXz5" target="_blank">その6,</a>
 <a href="https://photos.app.goo.gl/AZnJrhL6pU5cSWfd6" target="_blank">その7,</a>
-<a href="https://photos.app.goo.gl/UC6NeirwjBQFtgPk9" target="_blank">その8,</a><
-<a href="https://photos.app.goo.gl/VejKdyDQJ8QitAqm9" target="_blank">その9</a><br><br><br>
+<a href="https://photos.app.goo.gl/UC6NeirwjBQFtgPk9" target="_blank">その8,</a>
+<a href="https://photos.app.goo.gl/VejKdyDQJ8QitAqm9" target="_blank">その9</a><br><br><br><br>
 
 
 
