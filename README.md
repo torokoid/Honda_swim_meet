@@ -41,7 +41,7 @@ body { background-color: #0d0015; }
 
 <h2>
 <p>１９９７/７/27の宇都宮市民大会の映像が2020/6/4に、米久保さんより共有されました</p></h2><br><br>
-<a href="https://photos.app.goo.gl/ZySHuiBuw7xRcTFQ9" target="_blank">その１</a><br>
+<a href="https://photos.app.goo.gl/ZySHuiBuw7xRcTFQ9" target="_blank">その1</a><br>
 <a href="https://photos.app.goo.gl/P41hJjvnJNFUu7vJA" target="_blank">その2</a><br>
 <a href="https://photos.app.goo.gl/dtCpJpAWy5zPnmQ1A" target="_blank">その3</a><br>
 <a href="https://photos.app.goo.gl/PjyQv4wWBkRwaZodA" target="_blank">その4</a><br>
