@@ -40,15 +40,15 @@ body { background-color: #0d0015; }
  </header>
 
 <h2>
-<p>１９９７/７/27の宇都宮市民大会の映像が2020/6/4に、米久保さんより共有されました</p></h2><br><br>
-<a href="https://photos.app.goo.gl/ZySHuiBuw7xRcTFQ9" target="_blank">その1</a><br>
-<a href="https://photos.app.goo.gl/P41hJjvnJNFUu7vJA" target="_blank">その2</a><br>
-<a href="https://photos.app.goo.gl/dtCpJpAWy5zPnmQ1A" target="_blank">その3</a><br>
-<a href="https://photos.app.goo.gl/PjyQv4wWBkRwaZodA" target="_blank">その4</a><br>
-<a href="https://photos.app.goo.gl/PXFXGwUGtr4Vsgvg6" target="_blank">その5</a><br>
-<a href="https://photos.app.goo.gl/XJhvcSk6yfXrotXz5" target="_blank">その6</a><br>
-<a href="https://photos.app.goo.gl/AZnJrhL6pU5cSWfd6" target="_blank">その7</a><br>
-<a href="https://photos.app.goo.gl/UC6NeirwjBQFtgPk9" target="_blank">その8</a><br>
+<p>1997/7/27の宇都宮市民大会の映像が2020/6/4に、米久保さんより共有されました</p></h2><br><br><br>
+<a href="https://photos.app.goo.gl/ZySHuiBuw7xRcTFQ9" target="_blank">その1,</a>
+<a href="https://photos.app.goo.gl/P41hJjvnJNFUu7vJA" target="_blank">その2,</a>
+<a href="https://photos.app.goo.gl/dtCpJpAWy5zPnmQ1A" target="_blank">その3,</a>
+<a href="https://photos.app.goo.gl/PjyQv4wWBkRwaZodA" target="_blank">その4,</a>
+<a href="https://photos.app.goo.gl/PXFXGwUGtr4Vsgvg6" target="_blank">その5,</a>
+<a href="https://photos.app.goo.gl/XJhvcSk6yfXrotXz5" target="_blank">その6,</a>
+<a href="https://photos.app.goo.gl/AZnJrhL6pU5cSWfd6" target="_blank">その7,</a>
+<a href="https://photos.app.goo.gl/UC6NeirwjBQFtgPk9" target="_blank">その8,</a><
 <a href="https://photos.app.goo.gl/VejKdyDQJ8QitAqm9" target="_blank">その9</a><br>
 
 
