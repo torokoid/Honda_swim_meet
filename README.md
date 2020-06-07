@@ -41,15 +41,15 @@ body { background-color: #0d0015; }
 
 <h2>
 <p>1997/7/27の宇都宮市民大会の映像が2020/6/4に、米久保さんより共有されました<br>9本あります。</p></h2>
-<a href="https://photos.app.goo.gl/ZySHuiBuw7xRcTFQ9" target="_blank">その1,</a>
-<a href="https://photos.app.goo.gl/P41hJjvnJNFUu7vJA" target="_blank">その2,</a>
-<a href="https://photos.app.goo.gl/dtCpJpAWy5zPnmQ1A" target="_blank">その3,</a>
-<a href="https://photos.app.goo.gl/PjyQv4wWBkRwaZodA" target="_blank">その4,</a>
-<a href="https://photos.app.goo.gl/PXFXGwUGtr4Vsgvg6" target="_blank">その5,</a>
-<a href="https://photos.app.goo.gl/XJhvcSk6yfXrotXz5" target="_blank">その6,</a>
-<a href="https://photos.app.goo.gl/AZnJrhL6pU5cSWfd6" target="_blank">その7,</a>
-<a href="https://photos.app.goo.gl/UC6NeirwjBQFtgPk9" target="_blank">その8,</a>
-<a href="https://photos.app.goo.gl/VejKdyDQJ8QitAqm9" target="_blank">その9</a><br><br><br><br><br>
+<a href="https://photos.app.goo.gl/ZySHuiBuw7xRcTFQ9" target="_blank"><img src="1.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://photos.app.goo.gl/P41hJjvnJNFUu7vJA" target="_blank"><img src="2.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://photos.app.goo.gl/dtCpJpAWy5zPnmQ1A" target="_blank"><img src="3.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://photos.app.goo.gl/PjyQv4wWBkRwaZodA" target="_blank"><img src="4.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://photos.app.goo.gl/PXFXGwUGtr4Vsgvg6" target="_blank"><img src="5.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://photos.app.goo.gl/XJhvcSk6yfXrotXz5" target="_blank"><img src="6.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://photos.app.goo.gl/AZnJrhL6pU5cSWfd6" target="_blank"><img src="7.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://photos.app.goo.gl/UC6NeirwjBQFtgPk9" target="_blank"><img src="8.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://photos.app.goo.gl/VejKdyDQJ8QitAqm9" target="_blank"><img src="9.JPG" alt="サンプル画像" width="900" /></a><br><br><br><br><br>
 
 
 
